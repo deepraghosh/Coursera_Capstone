@@ -1,0 +1,2 @@
+Introduction/Business problem
+My idea for a problem is that we can check whether number of persons involved, number of pedestrians involved, number of cycles involved and number of vehicles involved influence the severity type of an accident. This data science problem is directed towards the state police and traffic police who would like to know which of the above is affecting the severity of an accident and hence be cautious about it. They might regulate the traffic of vehicles on basis of this data or even advise their citizens of some new policies.
