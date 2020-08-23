@@ -1,0 +1,3 @@
+Data section
+I will be using the accident data provided by Coursera.
+It has a column indicating severity type and 4 columns indicating number of persons, pedestrians, cycles, vehicles involved.
